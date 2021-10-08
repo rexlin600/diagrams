@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T06:41:16.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="t35WBp3uMu8WMWI0SEmx" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T06:43:08.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="HQV-N1-suWzlHFUSVLAG" version="15.2.9" type="github">
   <diagram id="JZD_DajndVED-Qe1OCt6" name="第 1 页">
     <mxGraphModel dx="2013" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,28 +128,28 @@
           <mxGeometry x="953" y="560" width="107" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UUgmTdBtR0KIAPF4Jde4-54" value="业务集群" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;fontColor=#000000;strokeColor=#FFFFFF;fillColor=#FFF4C3;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="160" y="540" width="520" height="87.5" as="geometry" />
+          <mxGeometry x="160" y="540" width="380" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="UUgmTdBtR0KIAPF4Jde4-56" value="AUTH" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="175" y="570" width="90" height="50" as="geometry" />
+          <mxGeometry x="170" y="570" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UUgmTdBtR0KIAPF4Jde4-57" value="SALARY" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="275" y="570" width="90" height="50" as="geometry" />
+          <mxGeometry x="260" y="570" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UUgmTdBtR0KIAPF4Jde4-58" value="HRMS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="375" y="570" width="90" height="50" as="geometry" />
+          <mxGeometry x="350" y="570" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UUgmTdBtR0KIAPF4Jde4-59" value="CALC" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="475" y="570" width="90" height="50" as="geometry" />
+          <mxGeometry x="440" y="570" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UUgmTdBtR0KIAPF4Jde4-60" value="分布式调度" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;fontColor=#000000;strokeColor=#FFFFFF;fillColor=#FFF4C3;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="555" y="262.5" width="230" height="167.5" as="geometry" />
+          <mxGeometry x="550" y="540" width="230" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="UUgmTdBtR0KIAPF4Jde4-61" value="实时任务 Job" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="575" y="300" width="90" height="50" as="geometry" />
+          <mxGeometry x="570" y="570" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UUgmTdBtR0KIAPF4Jde4-62" value="定时任务 Job" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="675" y="300" width="90" height="50" as="geometry" />
+          <mxGeometry x="670" y="570" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UUgmTdBtR0KIAPF4Jde4-63" value="基础平台" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;fontColor=#000000;strokeColor=#FFFFFF;fillColor=#FFF4C3;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-170" y="312.5" width="230" height="157.5" as="geometry" />
@@ -213,12 +213,6 @@
         </mxCell>
         <mxCell id="UUgmTdBtR0KIAPF4Jde4-98" value="Zipkin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B5739D;align=center;verticalAlign=top;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="949.5" y="680.8" width="107" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UUgmTdBtR0KIAPF4Jde4-100" value="任务引擎 XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="585" y="360" width="175" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UUgmTdBtR0KIAPF4Jde4-101" value="..." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="575" y="570" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
