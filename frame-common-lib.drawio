@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T08:45:25.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="jZEKbJGiiE_gguuCSiYP" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T08:45:57.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="bMbDekcgllrqCTE_OG00" version="15.4.3" type="github">
   <diagram id="-tsS-FsJ0L8fD3Px-xXv" name="第 1 页">
     <mxGraphModel dx="2013" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,34 +64,13 @@
           <mxGeometry x="865" y="257.5" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mv-XawTWSqNudMJ0L80r-32" value="shebao-frame-common包管理" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;fontStyle=1;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="92.5" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Mv-XawTWSqNudMJ0L80r-33" value="" style="startArrow=none;endArrow=none;segment=10;dashed=1;fontSize=12;dashPattern=1 4;" parent="1" source="Mv-XawTWSqNudMJ0L80r-11" target="Mv-XawTWSqNudMJ0L80r-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-160" y="112.5" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="-220" y="92.5" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mv-XawTWSqNudMJ0L80r-34" value="所有业务项目必须引入的核心包" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;fontColor=#FF3333;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-340" y="155" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Mv-XawTWSqNudMJ0L80r-35" value="" style="startArrow=none;endArrow=none;segment=10;dashed=1;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashPattern=1 4;" parent="1" source="Mv-XawTWSqNudMJ0L80r-10" target="Mv-XawTWSqNudMJ0L80r-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" y="62" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Mv-XawTWSqNudMJ0L80r-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;fontColor=#000000;dashPattern=1 4;endArrow=none;endFill=0;" parent="1" source="Mv-XawTWSqNudMJ0L80r-38" target="Mv-XawTWSqNudMJ0L80r-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Mv-XawTWSqNudMJ0L80r-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;fontColor=#000000;dashPattern=1 4;endArrow=none;endFill=0;" parent="1" source="Mv-XawTWSqNudMJ0L80r-38" target="Mv-XawTWSqNudMJ0L80r-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-220" y="155" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mv-XawTWSqNudMJ0L80r-38" value="业务项目按需引入的 starter" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="217.5" width="180" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Mv-XawTWSqNudMJ0L80r-39" value="" style="startArrow=none;endArrow=none;segment=10;dashed=1;fontSize=12;fontColor=#FF3333;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashPattern=1 4;" parent="1" source="Mv-XawTWSqNudMJ0L80r-8" target="Mv-XawTWSqNudMJ0L80r-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="170" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="-210" y="227.5" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mv-XawTWSqNudMJ0L80r-42" value="业务项目需引入的鉴权认证SDK" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;fontColor=#0000CC;" parent="1" vertex="1">
           <mxGeometry x="375" y="200" width="200" height="20" as="geometry" />
