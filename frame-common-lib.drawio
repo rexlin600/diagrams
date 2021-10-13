@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T08:49:14.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="KL5z4wjMncFINff6qdem" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T08:50:43.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="7nhBPfDfN54Zel2D-oET" version="15.4.3" type="github">
   <diagram id="-tsS-FsJ0L8fD3Px-xXv" name="第 1 页">
     <mxGraphModel dx="2013" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,6 +19,15 @@
         <mxCell id="Mv-XawTWSqNudMJ0L80r-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=block;endFill=1;dashPattern=1 4;" parent="1" source="Mv-XawTWSqNudMJ0L80r-9" target="Mv-XawTWSqNudMJ0L80r-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cBrseEsQqb129o0BAuas-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeWidth=1;curved=1;" edge="1" parent="1" source="Mv-XawTWSqNudMJ0L80r-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="175" />
+              <mxPoint x="750" y="160" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mv-XawTWSqNudMJ0L80r-9" value="shebao-common-auth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
