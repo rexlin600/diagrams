@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T08:48:52.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="w1Odf8QDkq72xvge7wYV" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T08:49:14.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="KL5z4wjMncFINff6qdem" version="15.4.3" type="github">
   <diagram id="-tsS-FsJ0L8fD3Px-xXv" name="第 1 页">
     <mxGraphModel dx="2013" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tng2CFI7S1YM1ahf0Abw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;strokeWidth=1;dashPattern=1 4;" parent="1" source="Mv-XawTWSqNudMJ0L80r-14" target="Mv-XawTWSqNudMJ0L80r-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="295" />
+              <mxPoint x="820" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Mv-XawTWSqNudMJ0L80r-14" value="shebao-common-log" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="370" y="275" width="210" height="40" as="geometry" />
