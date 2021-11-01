@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T03:28:29.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="cmha4eYct36ByGtnwZJU" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T03:31:46.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="gw3x7RKDeyX4fFTJR8up" version="15.5.7" type="github">
   <diagram id="h8NxwV9EvGS1gY7jsNnz" name="Page-1">
     <mxGraphModel dx="2013" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9MGFe9B6X9eKahvPxP4n-62" value="测试金字塔" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=none;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-360" width="540" height="400" as="geometry" />
+          <mxGeometry x="-50" y="-390" width="720" height="430" as="geometry" />
         </mxCell>
         <mxCell id="YCC9_aXwLLvpVHEqEHlf-26" value="单元测试（Unit Test）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="20" y="80" width="440" height="520" as="geometry" />
@@ -270,6 +270,18 @@
         </mxCell>
         <mxCell id="9MGFe9B6X9eKahvPxP4n-61" value="Unit" style="text;html=1;strokeColor=#FF3333;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="414" y="-55" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9MGFe9B6X9eKahvPxP4n-65" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-350" width="30" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="9MGFe9B6X9eKahvPxP4n-66" value="- 数量减少&lt;br&gt;- 粒度变粗&lt;br&gt;- 覆盖面增加&lt;br&gt;- 稳定性降低&lt;br&gt;- 测试变慢" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-240" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9MGFe9B6X9eKahvPxP4n-67" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-350" width="30" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="9MGFe9B6X9eKahvPxP4n-68" value="- 数量增加&lt;br&gt;- 粒度变细&lt;br&gt;- 覆盖面降低&lt;br&gt;- 稳定性增加&lt;br&gt;- 测试变快" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-240" width="110" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
