@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T03:27:55.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="45dTQEVcKh8LenBYeJct" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T03:28:29.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="cmha4eYct36ByGtnwZJU" version="15.5.7" type="github">
   <diagram id="h8NxwV9EvGS1gY7jsNnz" name="Page-1">
     <mxGraphModel dx="2013" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
           <mxGeometry x="132.5" y="-110" width="225" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9MGFe9B6X9eKahvPxP4n-56" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 15px&quot;&gt;In Mmory DB&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#FF3333;strokeWidth=4;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-60" width="270" height="40" as="geometry" />
+          <mxGeometry x="100" y="-60" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9MGFe9B6X9eKahvPxP4n-57" value="Exploratory" style="text;html=1;strokeColor=#FF9933;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9933;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="410" y="-280" width="110" height="30" as="geometry" />
