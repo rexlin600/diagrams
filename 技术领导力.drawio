@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T03:29:59.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="z0EmVvZp6LVpe2u52bcR" version="15.5.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-02T03:30:42.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="9DXbJhontlGJtRNBPrzo" version="15.5.7" type="github" pages="4">
   <diagram id="mSQKxS0kZbXmKDzQXLly" name="技术总监">
     <mxGraphModel dx="988" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kl2pYVQYESPha2Mf8wEj" name="技术VP">
-    <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nco4c_S5xprbghAa8xNT-0" />
         <mxCell id="nco4c_S5xprbghAa8xNT-1" parent="nco4c_S5xprbghAa8xNT-0" />
@@ -80,15 +80,15 @@
         <mxCell id="CXhLGJMlhBviRi8fhUv6-8" value="System Construction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nco4c_S5xprbghAa8xNT-1">
           <mxGeometry x="467" y="657" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CXhLGJMlhBviRi8fhUv6-9" value="" style="endArrow=none;html=1;shadow=0;fontColor=none;labelBackgroundColor=none;labelBorderColor=none;noLabel=1;verticalAlign=middle;fillColor=#0050ef;strokeColor=#001DBC;rounded=0;sketch=0;entryX=0.772;entryY=0.862;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nco4c_S5xprbghAa8xNT-1" target="CXhLGJMlhBviRi8fhUv6-3">
+        <mxCell id="CXhLGJMlhBviRi8fhUv6-9" value="" style="endArrow=none;html=1;shadow=0;fontColor=none;labelBackgroundColor=none;labelBorderColor=none;noLabel=1;verticalAlign=middle;fillColor=#0050ef;strokeColor=#001DBC;rounded=0;sketch=0;" edge="1" parent="nco4c_S5xprbghAa8xNT-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="650" as="sourcePoint" />
-            <mxPoint x="437" y="647" as="targetPoint" />
+            <mxPoint x="440" y="650" as="sourcePoint" />
+            <mxPoint x="440" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="660" />
-              <mxPoint x="330" y="577" />
-              <mxPoint x="400" y="540" />
-              <mxPoint x="430" y="590" />
+              <mxPoint x="350" y="650" />
+              <mxPoint x="340" y="577" />
+              <mxPoint x="400" y="550" />
+              <mxPoint x="440" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,7 +99,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y1GtvYrJBYnmfbD5V6iQ" name="首席架构师">
-    <mxGraphModel dx="329" dy="212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="818" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vSApou7Ybg_CyHVxAc0E-0" />
         <mxCell id="vSApou7Ybg_CyHVxAc0E-1" parent="vSApou7Ybg_CyHVxAc0E-0" />
