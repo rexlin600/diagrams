@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T03:15:03.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="toJ0yQzLclSn2AOIfxeu" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T03:16:45.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="6w4IXvBcWntgLzUkVZld" version="15.5.7" type="github">
   <diagram id="mSQKxS0kZbXmKDzQXLly" name="技术领导力">
-    <mxGraphModel dx="988" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="818" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="gizlz0MWikJhcCBtzlFW-9" value="Management ability" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="204" y="475" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="gizlz0MWikJhcCBtzlFW-10" value="CTO" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="340" y="440" width="150" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
