@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T03:32:14.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="hwAk1BCqyH5-7s2YI8r_" version="15.5.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-02T03:33:18.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="WPfNA3f2ieNj1Paf3gzW" version="15.5.7" type="github" pages="4">
   <diagram id="mSQKxS0kZbXmKDzQXLly" name="技术总监">
-    <mxGraphModel dx="988" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="565" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kl2pYVQYESPha2Mf8wEj" name="技术VP">
-    <mxGraphModel dx="474" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="565" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nco4c_S5xprbghAa8xNT-0" />
         <mxCell id="nco4c_S5xprbghAa8xNT-1" parent="nco4c_S5xprbghAa8xNT-0" />
@@ -149,7 +149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yhfJOgfKjzBxdK9VFd7x" name="CTO">
-    <mxGraphModel dx="77" dy="49" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="818" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jTspyn-IlJdHVaJfFm39-0" />
         <mxCell id="jTspyn-IlJdHVaJfFm39-1" parent="jTspyn-IlJdHVaJfFm39-0" />
