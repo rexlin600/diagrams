@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T03:12:23.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="h4k4r5iTcDyxBrEfCSZ1" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T03:16:04.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="kBlIi4i2EKYGW6EpHk6q" version="15.5.7" type="github">
   <diagram id="zvL8GlTMc8eFtZUIkf8F" name="企业内部">
     <mxGraphModel dx="1977" dy="2442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,8 +158,8 @@
         <mxCell id="PV1jHBKMlM598l_tTO8h-107" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="271" y="488" width="28" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="PV1jHBKMlM598l_tTO8h-111" value="1. 准入控制&lt;br&gt;2. 按钮级权限控制" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="210" y="546" width="167.5" height="77" as="geometry" />
+        <mxCell id="PV1jHBKMlM598l_tTO8h-111" value="1. 准入控制&lt;br&gt;2. 按钮级权限控制&lt;br&gt;3. 角色级数据隔离" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="546" width="167.5" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
