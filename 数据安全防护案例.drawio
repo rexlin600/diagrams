@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T03:07:38.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="B6vNV30JiQO_k1RfCVIG" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T03:09:11.894Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="0Mhn5Ku4blIRs_XfgKLO" version="15.5.7" type="github">
   <diagram id="zvL8GlTMc8eFtZUIkf8F" name="企业内部">
     <mxGraphModel dx="1977" dy="2442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PV1jHBKMlM598l_tTO8h-110" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;strokeWidth=2;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="410" y="395" width="790" height="835" as="geometry" />
+        </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-67" value="智能薪酬防止数据泄漏" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=40;strokeWidth=3;fillColor=none;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="103.75" y="-290" width="880" height="620" as="geometry" />
         </mxCell>
@@ -123,7 +126,7 @@
           <mxGeometry x="644.75" y="785" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-90" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;rounded=1;labelBackgroundColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="79.03" y="706" width="100.97" height="98" as="geometry" />
+          <mxGeometry x="60" y="455" width="100.97" height="98" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/picol-vector/32/server_security-128.png;rounded=1;fontSize=20;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="659.13" y="440" width="128" height="128" as="geometry" />
@@ -151,6 +154,12 @@
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-105" value="1. 全程密文传输&lt;br&gt;2. 密钥由安全团队掌控&lt;br&gt;3. 严密的权限控制" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="970" y="870" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-106" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontSize=20;strokeWidth=2;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="474" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-107" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="271" y="488" width="28" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
