@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T05:38:31.091Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="N8_-b2dsshBvQB0XJ3pI" version="15.5.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-05T05:41:24.296Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="wDHuR3RydI-FrXSYG1O8" version="15.5.7" type="github" pages="2">
   <diagram id="zvL8GlTMc8eFtZUIkf8F" name="企业内部">
     <mxGraphModel dx="1977" dy="2442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NZHBkKcoDFKd-PurkQWA" name="智能薪酬应用安全">
-    <mxGraphModel dx="2372" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wUdR2dI64wTf1apiwIai-0" />
         <mxCell id="wUdR2dI64wTf1apiwIai-1" parent="wUdR2dI64wTf1apiwIai-0" />
@@ -243,8 +243,8 @@
         <mxCell id="Li7YTvdRUEovUySa_MTm-16" value="安全审计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="wUdR2dI64wTf1apiwIai-1">
           <mxGeometry x="919" y="360" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m6gOXDBD6SaailjrlLn_-3" value="Security" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.security;rounded=1;labelBackgroundColor=none;" vertex="1" parent="wUdR2dI64wTf1apiwIai-1">
-          <mxGeometry x="640" y="1290" width="210" height="111.87" as="geometry" />
+        <mxCell id="m6gOXDBD6SaailjrlLn_-3" value="权威安全认证" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=19;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.security;rounded=1;labelBackgroundColor=none;" vertex="1" parent="wUdR2dI64wTf1apiwIai-1">
+          <mxGeometry x="640" y="1280" width="260" height="121.87" as="geometry" />
         </mxCell>
         <mxCell id="m6gOXDBD6SaailjrlLn_-4" value="1.&amp;nbsp;&lt;span&gt;ISO27001-&lt;/span&gt;&lt;span&gt;信息安全管理体系认证&lt;br&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span&gt;ISO27018-&lt;/span&gt;&lt;span&gt;公有云个人信息保护管理体系认证&lt;br&gt;&lt;/span&gt;&lt;span&gt;3.&amp;nbsp;&lt;/span&gt;&lt;span&gt;信息系统安全公安部三级备案&lt;br&gt;&lt;/span&gt;&lt;span&gt;4.&amp;nbsp;&lt;/span&gt;&lt;span&gt;信息安全管理体系认证&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;fontColor=#FF3333;" vertex="1" parent="wUdR2dI64wTf1apiwIai-1">
           <mxGeometry x="635.75" y="1401.87" width="434.25" height="160" as="geometry" />
