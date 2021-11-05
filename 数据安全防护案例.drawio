@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T02:03:42.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="lFUWXv13EKrF-9CyCYgW" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T02:04:24.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="mN9iG8ADGH4-LbsQsLJ1" version="15.5.7" type="github">
   <diagram id="zvL8GlTMc8eFtZUIkf8F" name="企业内部">
     <mxGraphModel dx="1395" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,12 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="PV1jHBKMlM598l_tTO8h-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="319.5" y="120" width="310" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="PV1jHBKMlM598l_tTO8h-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="171.25" y="120" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PV1jHBKMlM598l_tTO8h-2" value="系统管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="PV1jHBKMlM598l_tTO8h-3" target="PV1jHBKMlM598l_tTO8h-5">
           <mxGeometry relative="1" as="geometry" />
