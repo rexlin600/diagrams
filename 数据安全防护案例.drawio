@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T03:22:35.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="j8WaOpghemzA0AzEXSVC" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T03:24:36.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="b40IPNvl8-u01ESsj2zG" version="15.5.7" type="github">
   <diagram id="zvL8GlTMc8eFtZUIkf8F" name="企业内部">
     <mxGraphModel dx="1977" dy="2442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,6 +172,9 @@
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-118" value="1. 禁止非法访问&lt;br&gt;2. 全流程监控预警" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="860" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-119" value="1. 租户数据隔离&lt;br&gt;2. 按钮级权限控制&lt;br&gt;&lt;div&gt;&lt;span&gt;3. 部门级数据隔离&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4. 长时间无操作主动下线&lt;/div&gt;&lt;div&gt;5. 全业务操作审计&lt;/div&gt;&lt;div&gt;6. 全流程操作可溯源&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="845" y="420" width="235" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
