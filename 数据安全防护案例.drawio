@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T03:16:14.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="mz_znCpv2n5MTtp55H6W" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T03:22:10.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="FZLpAFZuKLj0LU3_1L2i" version="15.5.7" type="github">
   <diagram id="zvL8GlTMc8eFtZUIkf8F" name="企业内部">
     <mxGraphModel dx="1977" dy="2442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,6 +160,18 @@
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-111" value="1. 准入控制&lt;br&gt;2. 按钮级权限控制&lt;br&gt;3. 数据隔离" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="210" y="546" width="167.5" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-112" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user;rounded=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="71.67" y="769" width="89.3" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-113" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontSize=20;strokeWidth=2;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="785" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-117" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/simplicio/128x128/notification_error.png;rounded=1;fontSize=20;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254" y="788" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-118" value="1. 禁止非法访问&lt;br&gt;2. 全流程监控预警" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="860" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
