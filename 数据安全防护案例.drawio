@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T02:02:21.956Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Y29oq4edcbOS9jX4fj98" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T02:03:15.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="PfFinyrlbFDP5laAaX3t" version="15.5.7" type="github">
   <diagram id="zvL8GlTMc8eFtZUIkf8F" name="企业内部">
-    <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,10 +58,10 @@
         <mxCell id="PV1jHBKMlM598l_tTO8h-19" value="" style="shape=mxgraph.cisco.people.androgenous_person;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1130.5" y="190" width="69" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="PV1jHBKMlM598l_tTO8h-20" value="行为管控、半透明加密" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="140" width="150" height="30" as="geometry" />
+        <mxCell id="PV1jHBKMlM598l_tTO8h-20" value="行为管控、流程审批、操作审计、半透明加密" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="140" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PV1jHBKMlM598l_tTO8h-21" value="&lt;font style=&quot;font-size: 16px&quot;&gt;业务部门&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PV1jHBKMlM598l_tTO8h-21" value="&lt;font style=&quot;font-size: 16px&quot;&gt;技术部门&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1015" y="110" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;fontSize=16;" vertex="1" parent="1">
