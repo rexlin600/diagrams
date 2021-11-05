@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T03:36:23.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="zqjUoSJOK4IfZGIyYkmT" version="15.5.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-05T03:39:21.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="uKTiXUrnaKEvekl5w9Dw" version="15.5.7" type="github" pages="2">
   <diagram id="zvL8GlTMc8eFtZUIkf8F" name="企业内部">
-    <mxGraphModel dx="1977" dy="2442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,7 +105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NZHBkKcoDFKd-PurkQWA" name="智能薪酬应用安全">
-    <mxGraphModel dx="7907" dy="5093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1977" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wUdR2dI64wTf1apiwIai-0" />
         <mxCell id="wUdR2dI64wTf1apiwIai-1" parent="wUdR2dI64wTf1apiwIai-0" />
@@ -192,6 +192,21 @@
         </mxCell>
         <mxCell id="wUdR2dI64wTf1apiwIai-29" value="1. 计算节点高级防护&lt;br&gt;2. 专属数据隔离&lt;br&gt;3. 毫秒级计算能力" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="wUdR2dI64wTf1apiwIai-1">
           <mxGeometry x="1225" y="1211.87" width="205" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1YjRcj9Kk4uQf3cHgAuT-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/basic-web-ui-elements/295/visualization-128.png;rounded=1;fontSize=24;strokeWidth=2;fillColor=none;" vertex="1" parent="wUdR2dI64wTf1apiwIai-1">
+          <mxGeometry x="1660" y="815.87" width="242" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="1YjRcj9Kk4uQf3cHgAuT-1" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontSize=24;strokeWidth=2;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="wUdR2dI64wTf1apiwIai-1">
+          <mxGeometry x="1470" y="910.87" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1YjRcj9Kk4uQf3cHgAuT-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;fontSize=16;" vertex="1" parent="wUdR2dI64wTf1apiwIai-1">
+          <mxGeometry x="1531" y="920.8699999999999" width="28" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1YjRcj9Kk4uQf3cHgAuT-3" value="页面展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=24;" vertex="1" parent="wUdR2dI64wTf1apiwIai-1">
+          <mxGeometry x="1696" y="779.87" width="170" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1YjRcj9Kk4uQf3cHgAuT-4" value="HTTPS+SSL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=24;" vertex="1" parent="wUdR2dI64wTf1apiwIai-1">
+          <mxGeometry x="1480" y="978.87" width="130" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
