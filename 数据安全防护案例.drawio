@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T03:00:14.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="AIOMkBGLPUBELqa3z3xZ" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T03:01:35.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="iiiq2vxHF_s_YrP9fZ7z" version="15.5.7" type="github">
   <diagram id="zvL8GlTMc8eFtZUIkf8F" name="企业内部">
     <mxGraphModel dx="1977" dy="2442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,25 +102,37 @@
           <mxGeometry x="399.25" y="-150" width="292" height="150" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-81" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server;rounded=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="231.2" y="550" width="98.8" height="130" as="geometry" />
+          <mxGeometry x="490.95" y="705" width="98.8" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-82" value="智能人事" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="210" y="500" width="120" height="30" as="geometry" />
+          <mxGeometry x="469.75" y="655" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-83" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server;rounded=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="621.2" y="545" width="98.8" height="130" as="geometry" />
+          <mxGeometry x="880.95" y="700" width="98.8" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-84" value="智能薪酬" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="600" y="495" width="120" height="30" as="geometry" />
+          <mxGeometry x="859.75" y="650" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-85" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontSize=20;strokeWidth=2;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="390" y="570" width="170" height="60" as="geometry" />
+          <mxGeometry x="649.75" y="725" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-86" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="461" y="584" width="28" height="32" as="geometry" />
+          <mxGeometry x="720.75" y="739" width="28" height="32" as="geometry" />
         </mxCell>
         <mxCell id="PV1jHBKMlM598l_tTO8h-87" value="金融级AES加密" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="385" y="630" width="180" height="30" as="geometry" />
+          <mxGeometry x="644.75" y="785" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-90" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;rounded=1;labelBackgroundColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="99.75" y="722" width="68" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/picol-vector/32/server_security-128.png;rounded=1;fontSize=20;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="507.25" y="440" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-94" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=19;fillColor=none;rotation=-90;labelBackgroundColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="162.5" width="77.5" height="895" as="geometry" />
+        </mxCell>
+        <mxCell id="PV1jHBKMlM598l_tTO8h-95" value="统一身份认证管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="481.25" y="410" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
