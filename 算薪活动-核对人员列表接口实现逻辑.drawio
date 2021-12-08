@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T06:09:02.099Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="pWRCLviDmgU_2ELZ3RoX" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T06:09:48.809Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="N2c75in4vZNMKUk0b-Yw" version="15.9.1" type="github">
   <diagram id="s-vdipbRV10AutQqlhQl" name="Page-1">
     <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,8 +99,11 @@
         <mxCell id="gTkDmRqyJTE2ca7jixcS-28" value="传入的员工ID与上面的员工范围取交集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="735" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gTkDmRqyJTE2ca7jixcS-30" value="Merge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-30" value="Query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-35" value="查询员工基本人事信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="865" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
