@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T06:07:36.016Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="U0U0KJ3f8QXLmS-7TpCT" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T06:08:13.421Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Q4Ti2aowtv77wSYuWMR6" version="15.9.1" type="github">
   <diagram id="s-vdipbRV10AutQqlhQl" name="Page-1">
     <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,17 +71,36 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gTkDmRqyJTE2ca7jixcS-23" target="gTkDmRqyJTE2ca7jixcS-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="610" />
+              <mxPoint x="300" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-34" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gTkDmRqyJTE2ca7jixcS-33">
+          <mxGeometry x="-0.1436" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gTkDmRqyJTE2ca7jixcS-23" value="Filter" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gTkDmRqyJTE2ca7jixcS-25" value="是否经过关键词、筛选器过滤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="595" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gTkDmRqyJTE2ca7jixcS-26" target="gTkDmRqyJTE2ca7jixcS-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gTkDmRqyJTE2ca7jixcS-26" value="Merge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gTkDmRqyJTE2ca7jixcS-28" value="筛选的员工ID取交集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="735" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-30" value="Merge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
