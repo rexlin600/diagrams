@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T06:26:24.869Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="jMz51NfSHqs_uf84xh9-" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T06:28:45.457Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="XpajRJnwb3sVTTBF8gOU" version="15.9.1" type="github">
   <diagram id="s-vdipbRV10AutQqlhQl" name="Page-1">
     <mxGraphModel dx="1933" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,8 +43,8 @@
         <mxCell id="gTkDmRqyJTE2ca7jixcS-5" value="Tab = 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gTkDmRqyJTE2ca7jixcS-8" value="Tab 页是否切换为全部" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="305" width="140" height="30" as="geometry" />
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-8" value="Tab 页是否切换为全部，全部需要以&lt;br&gt;当前算薪活动圈定的人员为准" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="305" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gTkDmRqyJTE2ca7jixcS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gTkDmRqyJTE2ca7jixcS-15" target="gTkDmRqyJTE2ca7jixcS-23">
           <mxGeometry relative="1" as="geometry" />
