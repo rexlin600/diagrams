@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T06:18:32.436Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="l_YGQYB3L7HNEtuVNjkW" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T06:20:21.757Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="18zU-JQn24w4fQX_FP0X" version="15.9.1" type="github">
   <diagram id="s-vdipbRV10AutQqlhQl" name="Page-1">
     <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,6 +137,12 @@
         </mxCell>
         <mxCell id="gTkDmRqyJTE2ca7jixcS-45" value="End" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="380" y="1350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-47" value="tab 1-定薪 2-调薪 3-停薪" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="200" y="335" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-48" value="tab 0-全部" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="64" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
