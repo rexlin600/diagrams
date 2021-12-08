@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T06:09:48.809Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="N2c75in4vZNMKUk0b-Yw" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T06:10:23.385Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="X2NMeRERWWru7iE_Oo5E" version="15.9.1" type="github">
   <diagram id="s-vdipbRV10AutQqlhQl" name="Page-1">
     <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,11 +99,20 @@
         <mxCell id="gTkDmRqyJTE2ca7jixcS-28" value="传入的员工ID与上面的员工范围取交集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="735" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gTkDmRqyJTE2ca7jixcS-30" target="gTkDmRqyJTE2ca7jixcS-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gTkDmRqyJTE2ca7jixcS-30" value="Query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gTkDmRqyJTE2ca7jixcS-35" value="查询员工基本人事信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="865" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-36" value="Query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gTkDmRqyJTE2ca7jixcS-38" value="分页列表查询（基于前面的员工范围交集）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="995" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
