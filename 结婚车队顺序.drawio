@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T08:47:32.952Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="gywkT1gkPCRQUc0hzRLV" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T08:48:00.194Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="z4EGjARMugqYHzkBiA5W" version="15.9.4" type="github">
   <diagram id="ChxOJC20nfknNe4g9IQP" name="Page-1">
     <mxGraphModel dx="1639" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="bQJ2CA2lXjh7fbB7IvRR-1" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#FF0F0F;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="80" width="98" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="bQJ2CA2lXjh7fbB7IvRR-4" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#FF0F0F;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="98" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
