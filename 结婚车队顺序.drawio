@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T05:42:46.589Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="9qpcLOaEAsl1BQJrctUv" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T05:43:19.142Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="enRrdC9mjXSCdWerpY2y" version="16.2.1" type="github">
   <diagram id="ChxOJC20nfknNe4g9IQP" name="Page-1">
-    <mxGraphModel dx="1426" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1906" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,12 @@
         </mxCell>
         <mxCell id="bQJ2CA2lXjh7fbB7IvRR-27" value="车队 x6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="80" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L6X6l6jR8CA25U7gWPNo-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-110" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="L6X6l6jR8CA25U7gWPNo-3" value="摄影摄像" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-50" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
