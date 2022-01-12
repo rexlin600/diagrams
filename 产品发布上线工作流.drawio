@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T06:31:56.588Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="c2wpZ1_9yoVC-LEzpg4D" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T06:33:35.060Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="zlUQmU1Gdu5MQt_iPLZL" version="16.2.2" type="github">
   <diagram id="MecMWdHGIhIeB_fspcIx" name="第 1 页">
     <mxGraphModel dx="1106" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="_Lp_bI7DX-ZBtzPQDiae-47" value="产品/Ui确认业务已经达到上限标准" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="550" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_Lp_bI7DX-ZBtzPQDiae-48" value="特殊上线含义：&lt;br&gt;1）临时、紧急需求&lt;br&gt;2）非正常上线迭代周期&lt;br&gt;3）其他紧急事项" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="560" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
