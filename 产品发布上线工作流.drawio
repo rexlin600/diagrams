@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T06:41:52.305Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ikvWBGzpgIppJtJtpjeh" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T06:42:12.864Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="OIjwKZ6ay7yozqK1FuCc" version="16.2.2" type="github">
   <diagram id="MecMWdHGIhIeB_fspcIx" name="第 1 页">
     <mxGraphModel dx="1106" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#EDEDED" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
         <mxCell id="_Lp_bI7DX-ZBtzPQDiae-15" value="end" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="330" y="1150" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Lp_bI7DX-ZBtzPQDiae-24" value="发起人可以是项目组内的任意成员；&lt;br&gt;&lt;br&gt;注意：&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;必须由测试同意才可以发起&lt;/b&gt;&lt;/font&gt;！" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;" vertex="1" parent="1">
+        <mxCell id="_Lp_bI7DX-ZBtzPQDiae-24" value="发起人可以是项目组内的任意成员；&lt;br&gt;&lt;br&gt;注意：&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;通常必须由测试同意才可以发起&lt;/font&gt;！&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="450" y="190" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Lp_bI7DX-ZBtzPQDiae-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;" edge="1" parent="1" source="_Lp_bI7DX-ZBtzPQDiae-29" target="_Lp_bI7DX-ZBtzPQDiae-40">
