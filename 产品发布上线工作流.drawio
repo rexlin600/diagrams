@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T06:29:23.195Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Khq5z4jePY6c23xoUw2e" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T06:30:03.301Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="l6Zq6U0nphqVjTRLKlDE" version="16.2.2" type="github">
   <diagram id="MecMWdHGIhIeB_fspcIx" name="第 1 页">
     <mxGraphModel dx="1106" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,6 +146,9 @@
         </mxCell>
         <mxCell id="_Lp_bI7DX-ZBtzPQDiae-42" value="监控观测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1010" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Lp_bI7DX-ZBtzPQDiae-45" value="测试验证，质量达到可上线标准才可以允许发布上线" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
