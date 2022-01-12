@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T06:35:05.558Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="nWKuqu_F66Lx2evcsZzH" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T06:35:24.898Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="9knKviGiDG6xdIahFPKD" version="16.2.2" type="github">
   <diagram id="MecMWdHGIhIeB_fspcIx" name="第 1 页">
     <mxGraphModel dx="1106" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
         <mxCell id="_Lp_bI7DX-ZBtzPQDiae-51" value="产品/UI、测试需进一步回归验证" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="880" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Lp_bI7DX-ZBtzPQDiae-52" value="研发需持续观测、监控系统是否正常、稳定运行" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_Lp_bI7DX-ZBtzPQDiae-52" value="研发需持续观测、监控系统是否正常、稳定运行&lt;br&gt;&lt;br&gt;如有问题，是否可以让运维配合回滚？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="1030" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
