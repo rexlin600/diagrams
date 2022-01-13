@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T06:42:37.706Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="jw1NalsQmKmR9QETR6e0" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T01:42:01.264Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="TUQtzxo49XpyeQRKU14Y" version="16.2.2" type="github">
   <diagram id="MecMWdHGIhIeB_fspcIx" name="第 1 页">
     <mxGraphModel dx="1106" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#EDEDED" math="0" shadow="0">
       <root>
@@ -173,6 +173,15 @@
         </mxCell>
         <mxCell id="_Lp_bI7DX-ZBtzPQDiae-54" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;发起前请对照项目发布 check list，提前做好发版前准备&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="493" y="112" width="303" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Lp_bI7DX-ZBtzPQDiae-55" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=none;strokeColor=#006658;fillColor=#21C0A5;curved=0;" edge="1" parent="1" source="_Lp_bI7DX-ZBtzPQDiae-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="1032" as="sourcePoint" />
+            <mxPoint x="305" y="1042" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Lp_bI7DX-ZBtzPQDiae-56" value="&lt;font color=&quot;#ff3333&quot;&gt;观测、监控程序各项指标是否正常，如：CPU、内存、GC、吞吐、延时等&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="967" width="165" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
