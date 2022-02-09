@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T02:50:03.605Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="5ZUoKzpnKYGE86EsE2pv" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T02:52:40.869Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="BaBnT1P_EvTVQ52WCJ10" version="16.5.4" type="github">
   <diagram id="AouPGFJOOKbVTpHLAXiD" name="Page-1">
-    <mxGraphModel dx="2066" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3213" dy="1279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SKYqRsKC4ZwLW245TKKd-1" value="服务商&lt;br style=&quot;font-size: 18px&quot;&gt;服务提供者" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="267.09" y="110" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="SKYqRsKC4ZwLW245TKKd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="SKYqRsKC4ZwLW245TKKd-2" target="SKYqRsKC4ZwLW245TKKd-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -18,9 +15,6 @@
         </mxCell>
         <mxCell id="SKYqRsKC4ZwLW245TKKd-3" value="北京海之大" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1327.27" y="95" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SKYqRsKC4ZwLW245TKKd-5" value="客户&lt;br style=&quot;font-size: 18px&quot;&gt;服务使用者" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SKYqRsKC4ZwLW245TKKd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="SKYqRsKC4ZwLW245TKKd-10" target="SKYqRsKC4ZwLW245TKKd-13">
           <mxGeometry relative="1" as="geometry" />
@@ -46,11 +40,32 @@
         <mxCell id="SKYqRsKC4ZwLW245TKKd-23" value="普通应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1120" y="252.25" width="98.09" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKYqRsKC4ZwLW245TKKd-24" value="客户&lt;br style=&quot;font-size: 18px&quot;&gt;服务使用者" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="999" y="360" width="130" height="30" as="geometry" />
+        <mxCell id="SKYqRsKC4ZwLW245TKKd-25" value="服务商&lt;br style=&quot;font-size: 23px;&quot;&gt;服务提供者" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-20" y="45" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SKYqRsKC4ZwLW245TKKd-25" value="服务商&lt;br style=&quot;font-size: 18px&quot;&gt;服务提供者" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1217.27" y="115" width="110" height="20" as="geometry" />
+        <mxCell id="SKYqRsKC4ZwLW245TKKd-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=17;fontColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="180" as="sourcePoint" />
+            <mxPoint x="1790" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SKYqRsKC4ZwLW245TKKd-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=17;fontColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="330" as="sourcePoint" />
+            <mxPoint x="1790" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SKYqRsKC4ZwLW245TKKd-28" value="应用" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-20" y="187.75" width="80" height="32.25" as="geometry" />
+        </mxCell>
+        <mxCell id="SKYqRsKC4ZwLW245TKKd-29" value="客户&lt;br style=&quot;font-size: 23px;&quot;&gt;服务使用者" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-20" y="340" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SKYqRsKC4ZwLW245TKKd-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=17;fontColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="40" as="sourcePoint" />
+            <mxPoint x="1790" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
