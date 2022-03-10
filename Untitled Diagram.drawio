@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T05:46:40.704Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="uaRh-lhogb439TeNbEhX" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T05:46:47.798Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="wxeQhc-gP_J8rTSd4tbw" version="16.5.5" type="github">
   <diagram id="zlMd--F1FlE1qULEEaIW" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="160" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQkMXfwVc6xXb2kO94v5-15" value="Event" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.event;" vertex="1" parent="1">
-          <mxGeometry x="413.5" y="322.5" width="100" height="35" as="geometry" />
+          <mxGeometry x="414" y="460" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="VQkMXfwVc6xXb2kO94v5-17" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/message_bus.svg;" vertex="1" parent="1">
           <mxGeometry x="433.5" y="390" width="60" height="60" as="geometry" />
