@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T08:09:23.840Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="pJ0BUFQOXoopZXIrvW7M" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T08:10:11.207Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="b9Z_qLghMR_hOEC40jRk" version="18.0.3" type="github">
   <diagram id="d8w7R_K9KF0pSqCfr8D_" name="Page-1">
     <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,8 +181,8 @@
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-91" value="2.2 查询公司大库可选地区" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="145" y="730" as="sourcePoint" />
-            <mxPoint x="1090" y="730" as="targetPoint" />
+            <mxPoint x="145" y="770" as="sourcePoint" />
+            <mxPoint x="1090" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-92" value="2.3 查询商户是否在五险一金黑名单" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
@@ -204,6 +204,12 @@
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-100" value="1. 查询商户开通产品&lt;br&gt;2. 查询商户配置&lt;br&gt;3. 查询地区信息" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-99">
           <mxGeometry x="-0.1283" y="2" relative="1" as="geometry">
             <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-101" value="return 公司基本信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;strokeWidth=1;exitX=-0.4;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="730" as="sourcePoint" />
+            <mxPoint x="150" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
