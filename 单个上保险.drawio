@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T08:50:18.737Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="pvT12TE9QI9q4vYsOnLv" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T08:51:38.310Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="rgMH-campKB37cUn1hlp" version="18.0.3" type="github">
   <diagram id="d8w7R_K9KF0pSqCfr8D_" name="Page-1">
     <mxGraphModel dx="2610" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,6 +363,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1086" y="1160" as="sourcePoint" />
             <mxPoint x="145" y="1161.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-145" value="5.1 查询参保人在黑名单中的险种" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="150" y="1490" as="sourcePoint" />
+            <mxPoint x="1095" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-146" value="return 5.1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;strokeWidth=1;exitX=-0.4;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1086" y="1520" as="sourcePoint" />
+            <mxPoint x="145" y="1521.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
