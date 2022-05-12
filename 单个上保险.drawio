@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T09:13:06.364Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="_N1wyK2QrvDbe71JQyyh" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T09:14:16.881Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="eNwvbRSFUDhoiJ-KSCZj" version="18.0.3" type="github">
   <diagram id="d8w7R_K9KF0pSqCfr8D_" name="Page-1">
     <mxGraphModel dx="2610" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,9 +26,9 @@
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-3" value="合同系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V_4nD2PLSTLIcI9bDjK_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-159">
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-181">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="2590" as="targetPoint" />
+            <mxPoint x="1100" y="2810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-4" value="新保险后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -234,7 +234,7 @@
             <mxPoint x="145" y="931.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_4nD2PLSTLIcI9bDjK_-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-147">
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-179">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="2760" as="targetPoint" />
           </mxGeometry>
@@ -543,6 +543,36 @@
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-176" value="7.1.1 根据地区code查询该地区配置&lt;br&gt;7.1.2 注入地区最低申报工资、险种上下限" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-175">
           <mxGeometry x="-0.1283" y="2" relative="1" as="geometry">
             <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-179" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="135" y="2410" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-147" target="V_4nD2PLSTLIcI9bDjK_-179">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="2760" as="targetPoint" />
+            <mxPoint x="140" y="1850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-181" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="2410" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-159" target="V_4nD2PLSTLIcI9bDjK_-181">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="2810" as="targetPoint" />
+            <mxPoint x="1100" y="2340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-183" value="9.1 预计算接口" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="150" y="2439.9999999999995" as="sourcePoint" />
+            <mxPoint x="1095" y="2439.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-184" value="return 9.1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;strokeWidth=1;exitX=-0.4;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1086" y="2469.9999999999995" as="sourcePoint" />
+            <mxPoint x="145" y="2471.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
