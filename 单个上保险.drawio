@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T06:14:24.911Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="pB3HtTVwaxXT9LGdIDDd" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T06:17:26.729Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="3C10-D0LKoSRFij7b3qq" version="18.0.3" type="github">
   <diagram id="d8w7R_K9KF0pSqCfr8D_" name="Page-1">
-    <mxGraphModel dx="2010" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1823" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="455" y="380" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="1191.25" as="targetPoint" />
@@ -12,7 +15,7 @@
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-1" value="保险大厅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V_4nD2PLSTLIcI9bDjK_-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-25">
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="982.5" as="targetPoint" />
           </mxGeometry>
@@ -47,7 +50,7 @@
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="135" y="140" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V_4nD2PLSTLIcI9bDjK_-24" value="1.1 生成商户合同（数据不完整）" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;entryX=-0.3;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="V_4nD2PLSTLIcI9bDjK_-25">
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-24" value="1.1 生成商户合同（数据不完整）" style="endArrow=open;endSize=12;html=1;rounded=0;strokeWidth=1;entryX=-0.3;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="V_4nD2PLSTLIcI9bDjK_-25">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="145" y="200" as="sourcePoint" />
             <mxPoint x="305" y="200" as="targetPoint" />
@@ -63,7 +66,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_4nD2PLSTLIcI9bDjK_-41" value="1.3 商户审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-40">
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-41" value="1.2 商户数据补全" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-40">
           <mxGeometry x="-0.1373" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="13" as="offset" />
           </mxGeometry>
@@ -81,6 +84,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="982.5" as="targetPoint" />
             <mxPoint x="460" y="100.00000000000011" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-25" target="V_4nD2PLSTLIcI9bDjK_-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="982.5" as="targetPoint" />
+            <mxPoint x="460" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
