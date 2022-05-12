@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T08:58:24.932Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="p6Xv16mJ6kDTOVLJ5PgQ" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T09:01:15.652Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="YgD_h0jQ-uzccq19I598" version="18.0.3" type="github">
   <diagram id="d8w7R_K9KF0pSqCfr8D_" name="Page-1">
     <mxGraphModel dx="2610" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,7 +300,7 @@
           <mxGeometry x="-150" y="1260" width="270" height="19" as="geometry" />
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-128" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="135" y="1009" width="10" height="191" as="geometry" />
+          <mxGeometry x="135" y="1009" width="10" height="211" as="geometry" />
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-1" target="V_4nD2PLSTLIcI9bDjK_-128">
           <mxGeometry relative="1" as="geometry">
@@ -327,7 +327,7 @@
           <mxGeometry x="-160" y="1009" width="280" height="19" as="geometry" />
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-133" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="1020" width="10" height="180" as="geometry" />
+          <mxGeometry x="1095" y="1020" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-88" target="V_4nD2PLSTLIcI9bDjK_-133">
           <mxGeometry relative="1" as="geometry">
@@ -343,8 +343,8 @@
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-136" value="return 3.1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;strokeWidth=1;exitX=-0.4;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1086" y="1089" as="sourcePoint" />
-            <mxPoint x="145" y="1090.04" as="targetPoint" />
+            <mxPoint x="1086" y="1113.88" as="sourcePoint" />
+            <mxPoint x="145" y="1114.92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-138" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
@@ -355,14 +355,14 @@
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-139" value="4.1 校验参保人年龄" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="150" y="1130" as="sourcePoint" />
-            <mxPoint x="1095" y="1130" as="targetPoint" />
+            <mxPoint x="150" y="1169" as="sourcePoint" />
+            <mxPoint x="1095" y="1169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-140" value="return 4.1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;strokeWidth=1;exitX=-0.4;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1086" y="1160" as="sourcePoint" />
-            <mxPoint x="145" y="1161.04" as="targetPoint" />
+            <mxPoint x="1086" y="1199" as="sourcePoint" />
+            <mxPoint x="145" y="1200.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-145" value="5.1 查询参保人在黑名单中的险种" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
@@ -483,6 +483,21 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1086" y="2469.9999999999995" as="sourcePoint" />
             <mxPoint x="145" y="2471.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-169" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitX=1.167;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="V_4nD2PLSTLIcI9bDjK_-133">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1105" y="1080.4000000000003" as="sourcePoint" />
+            <mxPoint x="1110" y="1110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="1080" />
+              <mxPoint x="1150" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-170" value="身份证号码校验、调用中台接口校验参保人身份" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-169">
+          <mxGeometry x="-0.1283" y="2" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
