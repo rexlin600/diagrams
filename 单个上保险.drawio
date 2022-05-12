@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T08:09:19.367Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="CcQGVVOQgn5mcIeDvzl9" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T08:09:23.840Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="pJ0BUFQOXoopZXIrvW7M" version="18.0.3" type="github">
   <diagram id="d8w7R_K9KF0pSqCfr8D_" name="Page-1">
     <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-100" value="1. 查询商户开通产品&lt;br&gt;2. 查询商户配置&lt;br&gt;3. 查询地区信息" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-99">
           <mxGeometry x="-0.1283" y="2" relative="1" as="geometry">
-            <mxPoint x="10" y="8" as="offset" />
+            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
