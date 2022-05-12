@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T07:58:56.771Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="D6sq4Pr4VqosFsDP14Re" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T08:02:01.741Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="SseNKQKoNIE8Ka6lwZif" version="18.0.3" type="github">
   <diagram id="d8w7R_K9KF0pSqCfr8D_" name="Page-1">
-    <mxGraphModel dx="2728" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="982.5" as="targetPoint" />
+            <mxPoint x="460" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-2" value="商户系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -30,6 +30,11 @@
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-3" value="合同系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="2246" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-4" value="新保险后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="40" width="120" height="60" as="geometry" />
@@ -144,10 +149,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="135" y="570" width="10" height="80" as="geometry" />
+          <mxGeometry x="135" y="570" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="V_4nD2PLSTLIcI9bDjK_-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-83" target="V_4nD2PLSTLIcI9bDjK_-82">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-86" value="2 点击上保险" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-85">
           <mxGeometry x="-0.299" y="4" relative="1" as="geometry">
@@ -156,6 +163,33 @@
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-83" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-88" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="560" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="V_4nD2PLSTLIcI9bDjK_-4" target="V_4nD2PLSTLIcI9bDjK_-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="2246" as="targetPoint" />
+            <mxPoint x="1100" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-90" value="2.1 查询公司基本信息" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="145" y="630" as="sourcePoint" />
+            <mxPoint x="1090" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-91" value="2.2 查询公司大库可选地区" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="145" y="659.5" as="sourcePoint" />
+            <mxPoint x="1090" y="659.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-92" value="2.3 查询商户是否在五险一金黑名单" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="145" y="690" as="sourcePoint" />
+            <mxPoint x="1090" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
