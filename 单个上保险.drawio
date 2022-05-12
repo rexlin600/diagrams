@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T09:03:15.837Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="IF5gvfSHJokaDxjOnU39" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T09:07:36.433Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="nmyEN6J3OuV068BzSVDB" version="18.0.3" type="github">
   <diagram id="d8w7R_K9KF0pSqCfr8D_" name="Page-1">
     <mxGraphModel dx="2610" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -292,8 +292,8 @@
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-121" value="return 3.2" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;strokeWidth=1;exitX=-0.4;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1086" y="1441" as="sourcePoint" />
-            <mxPoint x="145" y="1442.04" as="targetPoint" />
+            <mxPoint x="1086" y="1470" as="sourcePoint" />
+            <mxPoint x="145" y="1471.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-122" value="选择参保人，方式二：从已有参保人列表中选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -367,14 +367,14 @@
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-145" value="5.1 查询参保人在黑名单中的险种" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="150" y="1490" as="sourcePoint" />
-            <mxPoint x="1095" y="1490" as="targetPoint" />
+            <mxPoint x="150" y="1520" as="sourcePoint" />
+            <mxPoint x="1095" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-146" value="return 5.1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;strokeWidth=1;exitX=-0.4;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1086" y="1520" as="sourcePoint" />
-            <mxPoint x="145" y="1521.04" as="targetPoint" />
+            <mxPoint x="1086" y="1550" as="sourcePoint" />
+            <mxPoint x="145" y="1551.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-147" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
@@ -511,6 +511,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V_4nD2PLSTLIcI9bDjK_-172" value="身份证号码校验、大小库保险参保人年龄校验等" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-171">
+          <mxGeometry x="-0.1283" y="2" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-173" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitX=1.167;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1105" y="1420.4000000000005" as="sourcePoint" />
+            <mxPoint x="1105" y="1460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="1420" />
+              <mxPoint x="1150" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-174" value="3.2.1 是否用工用户（根据是否为用工用户走不同的查询参保人详情逻辑）&lt;br&gt;3.2.2 查询参保人详情" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-173">
           <mxGeometry x="-0.1283" y="2" relative="1" as="geometry">
             <mxPoint y="8" as="offset" />
           </mxGeometry>
