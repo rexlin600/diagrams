@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T09:10:23.934Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="epsddthsXFuV407NLQpk" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T09:10:33.270Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="i2fnnRxNyWpbkQMLsicb" version="18.0.3" type="github">
   <diagram id="d8w7R_K9KF0pSqCfr8D_" name="Page-1">
     <mxGraphModel dx="2610" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_4nD2PLSTLIcI9bDjK_-176" value="7.1.1 根据地区code查询该地区配置&lt;br&gt;7.1.2 注入地区最低申报工资、基数上下限" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-175">
+        <mxCell id="V_4nD2PLSTLIcI9bDjK_-176" value="7.1.1 根据地区code查询该地区配置&lt;br&gt;7.1.2 注入地区最低申报工资、险种上下限" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V_4nD2PLSTLIcI9bDjK_-175">
           <mxGeometry x="-0.1283" y="2" relative="1" as="geometry">
             <mxPoint y="8" as="offset" />
           </mxGeometry>
